@@ -1,23 +1,36 @@
 {
     "spotify": {
-        "access": "YOUR-SPOTIFY-ACCESS-TOKEN-HERE",
-        "refresh": "YOUR-SPOTIFY-REFRESH-TOKEN-HERE",
-        "client_id": "SPOTIFY-APP-ID-HERE",
-        "client_secret": "SPOTIFY-APP-SECRET-HERE"
+        "access": "BQDszzvndZlDwZXnYEXh106FaKBFBC2qDtikVB6yjwfbDwTAxWqAszwXJuMc5iBNtGiiCmySynBN9dgwFQ85kzNPvfQelPaQ2sFHxXSH6MA-0FLl4eoRJGhGtTJFiHSY_sXLeihRCrGXFOMragZDBk3zsbynkeK0d30Zh_TJuZp-hhikhDKbuq3a2ODyaWsB",
+        "refresh": "AQAJ68jZ619Qs3sFLkbkPCvm7jMlb9WPlkX2sp1vKsYHRvOMtYY_N8WkXWSFtc7Ws4Uhz79m4Lv4Q00TjnOo2iyDdvP1d2z3fa8nRlmaiV7IcZiWV9cQ_bE6Yx5pi_J1hYN18CwwDle3GusFkARFaaPkyVoE8rLL73cNeSAzV2H462EhQ_DYEQ93rNrK2T-lO_7omRPl1FC8mhXX-AQgV3NaYalliSIhu4qOT7bls0Xe3CJih_utU8eC7KLp36TZhj4dtxk",
+        "client_id": "d9e225bfad9944a3a022b4de439af2e4",
+        "client_secret": "f4a58b3237a24e218cc3f395218b1148"
     },
     "devices": {
         "0": {
-            "id": "DEVICE0-ID-HERE",
-            "key": "DEVICE0-KEY-HERE",
-            "ip": "DEVICE0-IP-HERE (should be local if running on same network as device)",
-            "version": "DEVICE0-VERSION-HERE (e.g. 3.3)"
+            "id": "eb93626033781fde8adw5h",
+            "key": "ae90d2b7cf8efb8a",
+            "ip": "181.43.248.253",
+            "version": "2.9.6"
         },
         "1": {
-            "id": "DEVICE1-ID-HERE",
-            "key": "DEVICE1-KEY-HERE",
-            "ip": "DEVICE1-IP-HERE (should be local if running on same network as device)",
-            "version": "DEVICE1-VERSION-HERE (e.g. 3.3)"
+            "id": "eb5ef1da6e3f7a67852q1j",
+            "key": "de6db993c4b84c0f",
+            "ip": "181.43.248.253",
+            "version": "2.9.6"
+        },
+		"2": {
+            "id": "eb38edc7a76d678e46vpcx",
+            "key": "23103200c20648b2",
+            "ip": "181.43.248.253",
+            "version": "2.9.6"
+        },
+		"3": {
+            "id": "eb3971c19001571a79tlyc",
+            "key": "d1f50ed9558e2318",
+            "ip": "181.43.248.253",
+            "version": "2.9.6"
         }
+		
     },
     "debug": false,
     "refresh_interval": 1000
